@@ -1,0 +1,15 @@
+root mysql password - rootyTooty145!
+normally going to just be root123
+
+C:\Program Files\MySQL\MySQL Server 8.0\bin>set path %MYSQL_HOME%\bin;
+Path=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\x\AppData\Local\Microsoft\WindowsApps;C:\Users\x\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\x\AppData\Roaming\npm
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+
+
+The Rimland is a concept championed by Nicholas John Spykman
+"The Geographical Pivot of History" is an article submitted by Halford John Mackinder in 1904
+
+
+spring.datasource.url=jdbc:mysql://localhost:3306/employee 
+- note this, employee is the database, it's not the connection or the schema, it is literally the DB 
+- don't make this mistake again

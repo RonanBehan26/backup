@@ -1,0 +1,28 @@
+Docker
+
+consistently building, running and shipping apps
+
+container - isolated environment for running an app. the Containers can run side by side on the same machine,
+ but with different configs and dependencies
+- can just remove a container nb
+- dont have to spend a lot of time setting up a machine
+- just tell docker to bring it up - and it will bring up different configs and dependencies on isolated containers
+
+VM - abstraction of a physical machine
+
+the alternative is resource + time  extensive
+
+Containers 
+- allow running of different apps in isolation
+- lightweight
+- use OS of the host - use the kernel(like the core of the OS-manages all apps), this is why we can't run other apps on other OS
+- start quickly
+- need less hardware resources
+
+its a client server architecture, uses rest apis
+
+how to start - dockerise the app 
+- how - add the dockerfile - this helps package it into an image, then put that image into the container
+- docker run inside the container
+- dockerhub is like github (registry)
+

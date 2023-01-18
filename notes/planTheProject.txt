@@ -1,0 +1,19 @@
+it is connected to the sql
+apis work
+
+setup other apis - try and guess - need to do again - eventually to have a user microservice
+
+microservices aspect with eureka and the other one - user, product
+
+docker
+- Docker is an open platform for developing, shipping, and running applications. 
+Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. 
+With Docker, you can manage your infrastructure in the same ways you manage your applications. 
+By taking advantage of Docker’s methodologies for shipping, testing, 
+and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
+
+testing
+kubernetes
+security - tokens
+login
+UI
